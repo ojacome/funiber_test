@@ -1,4 +1,9 @@
-# cancion-app
+# Resolución Ejercicio "Lago Musical"
+
+Clic en los botones según el sonido para continuar con la canción que corresponde, se va a reproducir durante 3 segundos.
+
+## Captura del programa web
+![home](src/assets/home.png)
 
 ## Project setup
 ```
